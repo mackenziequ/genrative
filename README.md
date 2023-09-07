@@ -1,2 +1,2 @@
-# genrative
+# gnrtiv
 Generative Art
